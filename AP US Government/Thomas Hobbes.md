@@ -1,0 +1,56 @@
+---
+tags: ap-us-government/unit1 
+created: 2021-08-09
+---
+
+# Thomas Hobbes 8/9/21
+
+- 1588-1679
+- [[philosophical origins of US government]]
+- born in the year of the Spanish Armada's attempt to invade Britain
+- tutored children of English aristocrats
+	- Hobbes asked them philosophical questions
+	- tried to teach them about why England was so powerful
+- what made England a very powerful country?
+	- theocracy
+	- "role of the sovereign state is to create law and justice"
+		- sovereign state at this time referred to where kings were in control
+			- kings made decisions for the benefit of the people
+		- according to Hobbes, "strong government is necessary to maintain order and stability in society"
+- did not believe in the divine right
+	- still believed that the monarch's power should be absolute
+	- monarch gets power from the people
+		- so, laws have to be just and "satisfy the needs of the people"
+			- social contract
+- questions Hobbes attempted to answer in the Leviathan
+	- "why do humans need government in the first place?"
+		- "how did people come to realize that government was a good idea at all?"
+	- "what is the role of government in the lives of individual citizens?"
+- English Civil War and Cromwellian Period
+	- 1642-1660
+	- gave fundamental ideas to Hobbes for the Leviathan
+	- wars between Charles I and Parliament
+	- over disagreements about religion and the power of the king
+	- Oliver Cromwell ruled as Lord Protector for 12 years
+		- republican rule
+	- as a result of this, Hobbes' view of human nature changed
+		- humankind is inherently evil
+- people start in the state of nature
+	- ruthless, violent
+	- people sought pleasure and avoided pain
+		- everyone is equal
+		- self-interest
+- causes of chaos
+	- competition
+		- personal gain
+	- diffidence
+		- personal safety or fear of losing it
+	- glory
+		- personal reputation
+- how to produce order
+	- social contract with the sovereign
+		- people will eventually want organization and protection from a government
+		- absolute monarchy is the only form of government strong enough to protect its citizens
+- people give up liberty for safety -> sovereign determines rules -> sovereign enforces rules
+	- "all agree to obey -> sovereign must listen to the people -> liberty emerges"
+		- results in a commonwealth 

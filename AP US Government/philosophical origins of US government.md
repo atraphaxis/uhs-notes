@@ -1,0 +1,58 @@
+---
+tags: ap-us-government/unit1 
+created: 2021-08-06
+---
+
+# philosophical origins of US government 8/6/21
+
+- introduction
+	- definition of constitutional government
+		- Constitution
+			- written document that tells us how a government is structured and should function
+		- constitution
+			- routine and process
+		- constitutional government
+			- has a process and routine
+			- follows basic procedures for law creation and enforcement
+			- supposed to be based on fairness and transparency
+			- not based on absolute monarchy
+	- changing thoughts in European philosophy
+		- the Enlightenment (Age of Reason)
+			- discussion on the best form of government using logic
+		- British forms a non-absolute monarchy/constitutional monarchy with a Parliament that has increased power
+				- Crown
+				- House of Lords
+				- House of Commons
+				- significantly more liberal than continental Europe
+					- continent mostly continued to be an absolute monarchy
+		- thesis: "the [[US Constitution]] is the embodiment of Enlightenment thought as applied to government and politics"
+- development of the "Liberal Democratic Tradition"
+	- classical liberalism ^0a04e0
+		- "advocacy of minimal government"
+		- minimizing government minimizes oppression
+		- trend of Enlightenment era philosophy
+			- maximize the participation of the people--increase democracy
+		- modern liberalism
+			- greater government control
+	- democratic
+		- "participation in government"
+	- classical conservatism ^442a55
+		- bigger government and monarchy
+		- modern conservatism
+			- minimal government and theoretically increased freedom
+	- Natural State of Man
+		- a philosopher's belief in how people naturally act determines the philosopher's ideas with regard to the size of government
+			- if people are naturally good according to someone, that person would believe in smaller governments
+	- sovereignty: power
+		- in the case of monarchies, the sovereign is the monarch
+		- in the case of constitutional monarchies, the sovereign is the Parliament
+		- in the case of republics, the sovereign is the people
+	- Social Contract
+		- each philosopher has their own
+		- "general agreement among the people and their government"
+			- if you like the law, abide by it
+			- if you don't, go through the procedures to change it
+		- "agreement among the people that they will follow the rules"
+			- the rules are supposed to protect individual liberties
+		- liberty: "more individual rights"
+			- laws define the line where one's own individual liberties end and those of another begin

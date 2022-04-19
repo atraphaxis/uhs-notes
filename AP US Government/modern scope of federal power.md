@@ -1,0 +1,79 @@
+---
+tags: ap-us-government/unit3 
+created: 2021-10-22
+---
+
+# modern scope of federal power 10/22-25/21
+
+- see also [[scope of federal regulatory power]]
+- aggregate impact doctrine
+	- no matter how a small a corporation, they must comply to laws relating to interstate commerce
+- cases
+	- Wickard v. Filburn (1942)
+		- Secretary of Agriculture versus a farmer
+		- about the Agricultural Adjustment Act (AAA)
+			- quotas set on crops and animals per each farmer
+		- uses the affectation doctrine
+			- completely intrastate action was treated as interstate commerce
+	- US v. Southeastern Underwriters (1944)
+		- Southeastern Underwriters prosecuted under the Sherman Antitrust Act
+			- insurance is not interstate commerce, and neither are stocks
+		- close and substantial relationship to interstate commerce
+	- Heart of Atlanta Motel v. US (1964)
+		- Civil Rights Act
+			- "to discriminate against a person because of race, creed, or color, is to impede interstate commerce"
+				- rooted in the commerce clause
+			- Freedom Riders
+		- Heart of Atlanta Motel
+			- segregation
+			- argued the Civil Rights Act is an over-extension of federal power
+				- inhibiting commerce
+			- claimed that their business has nothing to do with interstate commerce
+		- Civil Rights Act is constitutional
+		- start of the rational basis test for laws that regulate commerce
+	- Katzenbach v. McClung (1964)
+		- McClung owned a restaurant in Alabama
+			- only white people could sit down in the restaurant
+		- rational basis test applied
+			- Civil Rights Act's constitutionality upheld
+			- aggregate impact doctrine
+	- Perez v. US (1971)
+		- anti-racketeering law passed by the federal government
+			- against organized crime
+			- rooted in the commerce clause
+		- Perez is a loan shark
+			- argued he only deals with local people
+		- Perez deals with money that could be used for interstate commerce
+			- money also likely printed in another state
+		- rational basis test upholds constitutionality
+	- US v. Lopez (1995)
+		- Gun-Free School Zone Act
+			- rooted in the commerce clause
+			- illegal to take a gun within 500 ft of a school campus
+		- Lopez
+			- student at a school in Texas takes a gun on campus
+			- lawyers claim the law is unconstitutional because there is no rational basis for the law being based on the commerce clause
+			- such a law has to be from a state, not the federal government
+			- possession of the weapon is not commerce
+		- solicitor general
+			- gun could have been made out of state
+			- education has an impact on interstate commerce
+		- law failed the rational basis test due to the higher amount of conservatives on the Court
+			- reduced ability to use the commerce clause for Congress
+			- from then on, Congress favors the spending power
+	- Moose Lodge v. Ervis (early 1970s)
+		- Ervis was an African American
+		- Moose Lodge was an all-white organization
+			- in order to join, must be sponsored by a member then accepted by everyone else
+		- Ervis won at lower court levels
+			- Civil Right Act does apply because the Moose Lodge rents property, has a liquor license, and is a substantial nexus of government activity
+				- also uses equal protection clause
+		- Moose Lodge argued that they had nothing to do with interstate commerce
+		- Court rules in favor of the Moose Lodge
+			- no solicitation of business
+- public facility: "facility owned by the government"
+	- government cannot discriminate according to the 14th Amendment
+- public accommodation: "privately owned business that opens its doors to the public"
+	- subject to the Civil Rights Act
+- substantial nexus: "substantial connection between a private organization and government"
+	- cannot discriminate 

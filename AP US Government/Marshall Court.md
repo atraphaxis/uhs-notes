@@ -1,0 +1,79 @@
+---
+tags: ap-us-government/unit3 
+created: 2021-10-18
+---
+
+# Marshall Court 10/18-21/21
+
+- self-imposed restrictions
+	- add validity to court decisions
+	- [[evolution of judicial review|judicial review philosophies]]
+		- consistency
+	- court tests of legislation
+		- make decisions less arbitrary
+	- *stare decisis*
+		- tradition
+	- dictum/dicta
+		- "court must limit itself to opinions directly related to the case decided"
+		- court only resolves current cases
+- framing the issue
+	- facts and background of case
+		- ask appropriate questions
+			- for federal laws, is the law rooted in an enumerated power?
+				- if no, immediately struck down
+				- if yes, it is probably one of these
+					- commerce clause + elastic clause
+					- spending power
+						- grants to states
+			- for state laws, "does the law conflict with the federal Constitution that creates an exclusive federal law"
+				- if yes, supremacy clause (Article 6 of the Constitution)
+					- strikes down state law
+					- "establishes that federal law takes precedence over state law"
+			- does the law violate the Bill of Rights?
+				- if yes, strict scrutiny
+				- if no, rational basis test
+			- does the law create a suspect classification?
+				- "suspect classification refers to a class of individuals that have been historically subject to discrimination"
+					- race, religion, national origin, alienage
+						- alienage refers to treating citizens and non-citizens differently
+				- if yes, strict scrutiny
+				- if no, rational basis
+				- if kind of (quasi-suspect classification), reasonable basis
+			- what test should be applied?
+				- does the law pass or fail the test?
+	- elevation of case to the constitutional level
+		- granting cert
+		- potential to be heard by the Supreme Court
+		- a law is on trial
+		- case may involve one or more legal issues
+- different kinds of opinions
+	- "an opinion is a court's written explanation of its decision"
+		- explains the legal basis for a decision
+		- basis of lower courts' decisions
+	- majority opinion
+		- opinion from when a majority of the justices are in agreement on both the result and basis
+		- 5 or more justices
+		- establishes precedent
+	- plurality opinion
+		- majority of justices agree on the result but not the basis
+		- cannot set precedent
+	- dissenting opinion
+		- explains the reasons for disagreeing with the majority or plurality decision
+- Supreme Court (1801-1835)
+- John Marshall
+	- midnight judge
+		- appointed by John Adams (Federalist)
+	- Federalist
+		- expands federal power at the expense of state power
+	- "Federalist retreat to the judiciary"
+	- empowers the Court to make it equal in power to the other branches
+		- through judicial review
+	- precedents established
+		- judicial review at the federal level
+		- judicial review at the state level
+			- Gibbons v. Ogden (1824)
+		- implied powers via elastic clause
+			- McCulloch v. Maryland
+		- supremacy clause
+		- definition of interstate commerce clause
+			- Gibbons v. Ogden 

@@ -1,0 +1,60 @@
+---
+tags: ap-us-government/unit7 
+created: 2022-04-04
+---
+
+# history of the bureaucracy 4/4/22
+
+- see also [[scope of federal regulatory power]]
+- Max Weber
+	- bureaucracies are efficient ways to deal with large and complicated functions required of government
+	- characteristics of a bureaucracy
+		- chain of command
+		- clear division of labor
+		- established rules
+		- set of goals
+		- merit-based hiring and promotion
+		- emphasis on productivity
+- iron triangle
+	- interest groups
+		- give money to Congress
+		- support agencies in front of Congress
+	- agencies of executive
+		- passes regulations good for interest groups
+		- helps Congress by keeping interest groups happy
+	- Congress
+		- gives agencies more money and power
+		- passes laws for good interest groups
+	- example
+		- American Association of Retired People (AARP)
+		- House Committee on Aging
+		- Social Security Agency
+- patronage system
+	- reward people of one's own party by giving them employment in the federal government
+	- becomes more and more common from George Washington to Thomas Jefferson to Andrew Jackson
+	- Andrew Jackson took it to the extremes with the "spoils" system
+- bureaucracy expanded during the 19th century due to westward expansion, the Civil War, and the Industrial Revolution
+- Pendleton Act
+	- President James Garfield was killed because he didn't grant Charles Guiteau a job in the government.
+	- mandates a more merit-based employment process for the federal civil service
+- largest growth in American history of the bureaucracy took place from 1933 to 1945 during the New Deal era
+	- due to World War II and the Great Depression
+- organization of the bureaucracy
+	- cabinet departments
+		- like Justice and State
+	- government corporations
+		- like USPS and Amtrak
+	- independent agencies
+		- less complex than departments, often don't fit nicely into a specific department
+		- like NASA
+	- regulatory agencies
+		- independent to fairly regulates businesses
+		- like Federal Reserve Board, Securities and Exchange Commission, EPA
+- criticisms of bureaucracy
+	- slow
+	- limited communication between agencies
+	- problematic job security
+	- confusing organization
+	- difficult to reform because controlled by both the president and Congress
+- Hatch Act
+	- forbids employees from engaging in some activities deemed too political 

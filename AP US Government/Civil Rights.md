@@ -1,0 +1,57 @@
+---
+tags: ap-us-government/unit4 
+created: 2021-11-01
+---
+
+# Civil Rights 11/1-3/21
+
+- see also [[due process and equal protection]]
+- "someone is claiming they have been discriminated against"
+- Civil Rights Act of 1964
+	- "regulates private businesses and public accommodations by saying they can't discriminate based on race/ethnicity, religion, national origin, or alienage"
+- "government cannot discriminate due to the Court's interpretation of the 14th Amendment"
+- "if a bill targets any of the suspect classification groups, the bill is considered suspicious"
+	- strict scrutiny
+- discrimination based on national origin
+	- "treating people (possibly applicants or employees) unfavorably because they are, appear to be, or are married to someone from a particular part of the country or world"
+- semi-suspect classifications
+	- not immediately suspicious but should still be investigated
+	- gender
+	- age
+		- more allowable if focused on young people
+	- disability
+		- depends on whether intellectual or physical
+	- legitimacy of birth
+		- affects custody and guardianship rights
+	- sexual orientation and transgender status
+		- person can't be fired based on these factors
+- federal Civil Rights legislation
+	- Civil Rights Acts
+		- Americans with Disabilities Act
+		- Affirmative Action
+			- "to remedy historic discrimination, all things being equal, the minority candidate will get preference over the white or male candidate"
+			- through goals
+	- executed through Department of Justice Civil Rights Division and EEOC
+	- regulation of public accommodations
+		- interstate commerce clause
+		- ADA uses spending power
+			- state compliance grants
+		- upheld via rational basis test
+- 14th Amendment cases
+	- equal protection clause applies to states and federal government
+	- does the law create a suspect classification?
+	- Court generally applies strict scrutiny to a law that seems non-discriminatory on the surface but has a discriminatory intent or impact
+	- racial segregation is discriminatory
+		- prior to Brown v. Board of Education, it was not seen as discriminatory
+	- de facto segregation
+		- "it just happened in fact"
+		- Court does not attempt to end this
+	- de jure segregation
+		- by law
+		- Court does attempt to end this
+- issues that determine which court test is used
+	- minority group status
+	- is the discrimination based on a behavior or characteristic that does not change
+	- does the job have certain requirements in terms of physical attributes or skills
+	- "is the person applying for future gain or is the person being deprived of something already in possession"
+		- related to affirmative action 

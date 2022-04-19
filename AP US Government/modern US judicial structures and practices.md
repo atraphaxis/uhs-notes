@@ -1,0 +1,77 @@
+---
+tags: ap-us-government/unit3 
+created: 2021-09-23
+---
+
+# modern US judicial structures and practices 9/23-24/21
+
+- federal court system
+	- Supreme Court
+		- currently 9 seats
+	- courts of appeal
+		- 12 circuits
+		- 3 member tribunal
+	- district courts
+		- 94 districts
+		- federal crimes
+- state court systems
+	- state supreme court
+	- state courts of appeal
+		- only in bigger states
+	- superior courts
+		- state criminal cases
+	- municipal courts
+		- misdemeanors
+	- cases that deal with federal issues can be moved to the federal court system
+- filing a lawsuit
+	- standing
+		- injury by another person or a law
+		- first person standing
+			- a person has to litigate their own case
+				- lawyers can help
+		- third person standing
+			- if a person is unable to litigate, a person of a close personal relationship can do it for them
+- trial court jurisdiction
+	- sometimes it is ambiguous if a crime could be federal and/or state
+	- for a fairer trial, a case go to the federal court system
+- right to an appeal
+	- guaranteed in the Bill of Rights
+	- only one appeal
+		- writ of certiorari
+			- Supreme Court can choose to accept a case
+				- granting cert
+				- only 2% of cases that ask for it get it
+			- "rule of four"
+				- four Supreme Court justices have to agree to hear it
+			- based on
+				- dissonance
+					- conflicting rulings
+				- desire to set/strengthen precedent
+				- if the case covers new judicial territory
+			- justiciability doctrines
+				- standing
+				- ripeness
+					- current
+					- will be heard
+				- mootness
+					- already been decided
+					- won't be heard
+					- exceptions
+						- likely to be repeated
+						- to prevent residual harm
+				- political question
+					- if the issue is specifically assigned to a different branch in the [[US Constitution]], it won't be heard
+					- examples
+						- Goldwater v. Carter
+							- Carter signed a treaty returning the Panama Canal to Panama in 2000
+							- not heard
+						- taxpayer standing
+							- one cannot sue due to an inefficient use of tax money or having too high of taxes
+					- could change over time
+						- belief in an implied right of contract
+							- cases accepted based on this in the Gilded Age
+							- no longer justiciable since the 1930s
+						- use of contraceptives and abortion
+							- before 1960s, was seen as a political question
+							- after, fundamental right of privacy
+								- implied from the Constitution 

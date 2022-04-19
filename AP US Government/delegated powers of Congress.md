@@ -1,0 +1,55 @@
+---
+tags: ap-us-government/unit2 
+created: 2021-09-01
+---
+
+# delegated powers of Congress 9/1/21
+
+- from [[Article I of the Constitution|Article I]], Section 8
+- "power of the purse"
+	- mint
+	- tax
+	- borrow
+	- spend
+- regulate trade
+	- interstate
+	- international
+- determine structure of lower federal courts
+	- also sets the amount of seats on the Supreme Court
+- military
+	- National Guard, army, navy
+- declare war
+	- War Powers Act
+		- 1973
+		- by executive order, president can unilaterally declare war
+- foreign relations
+- establish immigration and citizenship policies
+- elastic clause
+	- "all federal law must be rooted in an enumerated power!"
+	- McCulloch v. Maryland
+		- 1819
+		- Supreme Court ruled that Congress has implied powers
+			- for the Second Bank of the US
+- implied powers (not directly in the [[US Constitution]])
+	- establish national bank or federal reserve
+	- regulation of shipping, labor laws, environmental use
+	- civil rights acts
+	- Social Security
+	- Medicare
+	- the Draft
+- restrictions on Congress
+	- from [[Article I of the Constitution|Article I]], Section 9
+	- ban on the international slave trade
+	- writ of habeus corpus
+		- cannot be suspended by Congress
+		- "court order requiring the federal government to charge individuals arrested for crimes"
+		- bill of attainder
+			- "individual guilty of a capital offense without a trial"
+	- ex post facto law
+		- cannot be passed by Congress
+		- person cannot be charged for some action committed in the past that was legal at the time but is now illegal
+	- no direct tax laws
+		- interstate shipping
+		- no preferential treatment for certain states' ports
+	- no nobility
+		- titles 

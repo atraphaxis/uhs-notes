@@ -1,0 +1,58 @@
+---
+tags: ap-us-government/unit1 
+created: 2021-08-23
+---
+
+# James Madison 8/23/21
+
+- *Federalist \#10*
+	- counter to Anti-Federalist arguments
+		- *Brutus \#1*
+		- federal government will be overly powerful
+		- republican government cannot be successful if it covers a large area
+	- "purpose of the *Federalist Papers* was to encourage voters in key states to elect pro-Constitution delegates to state ratifying conventions"
+	- democratic and republican governments lead to the formation of factions
+		- "size of the population in and of itself would provide protection from tyranny"
+		- faction is "a group of people in society that could be large or small that is united by similar interests, ideas, and passions"
+			- political parties
+				- Democratic
+				- Republican
+			- interest groups
+				- National Education Association (NEA)
+				- National Rifle Association (NRA)
+			- political action committees (PACs)
+		- each faction would check each other
+			- factions prevent tyranny
+		- propertied class makes more factions than those without property
+			- factions form based on how people acquire their wealth
+	- the majority
+		- "most dangerous" faction
+		- government has to protect the rights of the minority (those that have wealth)
+			- separation of powers and checks and balances
+			- bicameral legislature
+				- representation
+			- federalism
+				- prevents the central government from becoming too powerful
+	- "federal government is comprised of too many factions that it will never devolve into despotism"
+	- Bill of Rights
+		- for Anti-Federalist support
+		- prevents over-encroaching of local, state, and federal government
+- *Federalist \#51*
+	- went against Anti-Federalist arguments
+		- separation of powers cannot be perfect
+			- president and judiciary will become too powerful
+	- separation of powers
+		- bicameral legislature weakens Congress' power in terms of passing laws
+			- revenue bills
+			- House of Representatives decides presidential elections if no one got a majority of the Electoral College votes
+			- Senate ratifies treaties negotiated by the executive
+			- House of Representatives votes to impeach a president
+				- trial happens in the Senate
+					- 2/3 must vote to remove
+		- president weakened by the other two branches
+			- can be voted out after four years
+		- independent judiciary protects the rights of the minority
+			- lifetime terms are necessary
+	- checks and balances
+	- federalism
+		- prevents usurpation 

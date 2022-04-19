@@ -1,0 +1,81 @@
+---
+tags: ap-us-government/unit2 
+created: 2021-08-30
+---
+
+# Article I of the [[US Constitution]] 8/30/21
+
+- constitutional debate
+	- Virginia Plan
+	- New Jersey Plan
+	- Great Compromise
+		- bicameral legislature
+		- Three Fifths Compromise
+- House of Representatives
+	- directly elected by the people
+		- constituents
+		- only part of the federal government originally like this
+	- two year terms
+		- power to tax
+			- representatives can easily be taken out of office if their taxation policies go to far
+	- incumbency
+		- currently holding office
+		- 90% of incumbent representatives and senators get reelected
+		- franking privilege
+			- representative can use government money to send free mail
+	- requirements
+		- at least 25 years old
+		- resident of specific state for 7 years
+		- must reside in the congressional district
+	- congressional district
+		- based on population
+		- "territorial division of a state from which a member of the US House of Representatives is elected"
+		- originally one representative per 30,000 people
+		- now one to around 750,000
+			- capped number in House of Representatives to 435 in 1911
+			- minimum of one per state
+	- selects its own speaker
+		- presiding officer
+			- leader in the majority party
+	- introduces articles of impeachment
+		- does not mean the person is getting kicked out of office
+			- just charge with a crime
+		- Senate convicts
+		- checks executive
+			- treason
+			- bribery
+			- high crimes and misdemeanors
+		- people that have been impeached
+			- Andrew Johnson
+			- Bill Clinton
+			- Donald Trump
+	- makes its own rules
+		- more rules than the Senate because more people
+	- creates revenue/tax bills
+	- if Electoral College does not return a majority, then the House of Representatives picks the president
+- Senate
+	- federalism
+		- originally elected by state legislators
+		- now directly by popular vote
+			- 17th Amendment
+				- 1913
+	- six year terms
+		- one third elected at a time
+	- requirements
+		- at least 30 years old
+		- resident of specific state for 9 years
+	- two per state
+	- vice president is president of the Senate
+		- breaks ties
+		- president pro tempore
+			- takes over for the vice president when they are not available
+	- tries impeachments
+		- 2/3 vote needed for conviction
+	- makes its own rules
+		- unlimited debate
+			- filibuster
+				- tactic usually used by the minority party to delay a vote on a bill that they do not want to pass
+	- confirms presidential appointments
+		- diplomats and ambassadors as well
+	- ratifies treaties
+	- if Electoral College does not return a majority, the Senate picks the vice president 

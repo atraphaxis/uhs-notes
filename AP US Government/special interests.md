@@ -1,0 +1,77 @@
+---
+tags: ap-us-government/unit2 
+created: 2021-09-15
+---
+
+# special interests 9/15-16/21
+
+- interest group
+	- "organization that tries to influence government and get them to support a specific agenda"
+	- tries to get legislation passed that benefits them
+	- different from political parties
+		- which have a wide range of objectives
+		- interest groups are specialized
+	- lobbying
+		- "trying to persuade politicians to agree with them"
+	- lawsuits
+	- main source of legislation
+		- [[legislating in Congress]]
+	- faction
+		- Federalist \#10 from [[James Madison]]
+	- "reflection of American democracy"
+	- do not care about other issues
+	- goal
+		- get more members and money at all levels
+- functions
+	- linking institution
+		- connect members and government
+		- argue in favor of the preferences of their members
+		- educate members and general public
+	- allow for political participation by citizens
+	- raise and spend money to influence legislators
+- types
+	- single issue
+		- National Rifle Association (NRA)
+			- against gun control
+			- right to bear arms according to their interpretation of the Second Amendment
+		- National Coalition to Ban Handguns
+	- public interest
+		- every interest group tries to portray themselves as this
+		- American Civil Liberties Union (ACLU)
+		- don't sponsor legislation
+		- blocks legislation
+			- lawsuits
+	- membership group
+		- ideology
+			- broad-based membership group
+				- National Education Association (NEA)
+				- one cause, multiple perspectives
+				- National Organization for Women (NOW)
+				- National Taxpayers Union (NTU)
+		- business
+			- "promote corporate or employer interests"
+			- National Cotton Council (NCC)
+			- National Association of Manufacturers (NAM)
+			- Republicans are more often affiliated to these groups
+		- union
+			- Democrats are more often affiliated to these groups
+			- public sector
+				- government employees
+					- school teachers
+			- private sector
+				- private firm employees
+					- United Auto Workers (UAW)
+			- each type has different rules
+- structure
+	- similar to political parties
+	- federalist model
+		- different branches and levels of branches
+	- attempt to be bipartisan
+- effective lobbying
+	- positive relationships
+	- legitimacy and influence
+	- appear moderate
+	- know the issues and people involved
+	- participate and interact at events and fundraisers
+		- get name recognition
+	- express appreciation to those that help the cause but don't punish those who don't 

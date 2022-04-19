@@ -1,0 +1,57 @@
+---
+tags: ap-us-government/unit7 
+created: 2022-03-25
+---
+
+# evolution of the presidency 3/25/22
+
+- see also [[constitutional provisions regarding the executive branch]]
+- precedents set by George Washington
+	- two-term limit
+	- limited use of veto
+		- related to the constitutionality of the law
+	- president remains physically separated from Congress
+	- public self-restraint
+	- head of state/national leader
+	- primacy in foreign and military police
+- precedents set by Adams and Jefferson
+	- limited undeclared wars
+		- attacks on American boats were treated as an invasion
+	- purchase of new territory
+		- Louisiana Purchase
+	- executive privilege
+		- Burr trial
+			- Jefferson refused to testify in federal court as a part of the separation of powers
+- precedents set by Jackson
+	- removal of Native Americans
+	- executive prerogative in enforcement of court decisions
+		- Jackson ignored court decisions
+	- executive prerogative in enforcement of law
+		- Jackson ignored laws
+	- political use of the veto
+- precedents set by Lincoln
+	- taking the oath of office makes it so the president has to do whatever is necessary to save the greater good, even if that means abandoning the Constitution at points
+	- use of the executive order
+	- broad interpretation of police power
+		- indefinite arrest
+			- went against the writ of habeas corpus
+- precedents set by Theodore Roosevelt and Wilson
+	- use of executive agreement
+		- Panama Canal
+		- to get around the Senate ratification process
+		- short-term treaties
+	- State-of-the-Union Speech in front of a joint session of Congress
+	- president becomes a world leader
+- precedents set by FDR
+	- civic personality
+	- federal government provides for the people
+- precedents set by Truman
+	- president in charge of national security
+	- president in charge of military response
+- precedent set by JFK
+	- president as celebrity
+- current checks on presidential power
+	- four-year term, two-term limit
+	- impeachment
+	- media and public opinion
+	- congressional override of veto 

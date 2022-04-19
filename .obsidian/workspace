@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "6edfa3945ec6672e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0118edfc77e673e1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "8d43e1767f5f040c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "welcome.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a18c0653e0ef84b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "13a6368d7694354f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b04a792f8fe95fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d386d97ae69739b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10e79a75dd01b994",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbe0d0847b6d1740",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740d7864f8f015a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "730a6f18717a6956",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "0118edfc77e673e1",
+  "lastOpenFiles": [
+    "AP Psychology/psychology.md",
+    "more information.md",
+    "welcome.md",
+    "AP Psychology units.md",
+    "AP US Government units.md",
+    "AP Economics units.md",
+    "AP Psychology/behaviorism.md",
+    "obsidian.md",
+    "AP Psychology/AP psychology unit 14 bellwork.md",
+    "AP Psychology/AP psychology unit 13 bellwork.md"
+  ]
+}

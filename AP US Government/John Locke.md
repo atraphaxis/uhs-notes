@@ -1,0 +1,65 @@
+---
+tags: ap-us-government/unit1 
+created: 2021-08-11
+---
+
+# John Locke 8/11/21
+
+- 1632-1704
+- [[philosophical origins of US government]]
+- opposite view of [[Thomas Hobbes]]
+- supported Parliament in the English Civil War
+	- Charles I's execution was good
+- lived in political exile in Holland
+	- Charles II returned to the throne
+		- vengeful
+	- befriended William of Orange
+		- soon became the king of England
+- Glorious Revolution
+	- 1688
+	- James II dethroned
+	- dual monarchy of Mary II and William I
+		- conditions
+			- Act of Supremacy
+				- 1689
+				- Parliament is supreme (sovereign)
+					- monarch is subordinate to Parliament
+					- monarch is not above the law but must enforce the laws passed by Parliament
+			- Declaration of Rights of Man
+				- 1690
+				- important for the creation of the Bill of Rights
+				- people possess certain rights that the government cannot take away
+					- protected property rights
+- Second Treatise of Civil Government
+	- justification of the Glorious Revolution
+	- natural state of humanity is good
+		- everyone seeks stability
+	- everyone has natural rights
+		- life
+		- liberty
+		- property (fruits of labor)
+	- government must protect these rights
+	- "according to Locke, to have a stable society, government must represent and protect the rights of the property holders"
+	- social contract
+		- "consent is the basis of political power"
+		- "power comes from the people -> laws protect the people -> laws create freedoms and liberties"
+	- according to him, only people who have property care about the commonwealth
+		- 10% of the population
+	- propertied sections of society
+		- monarchy
+		- House of Lords
+			- aristocracy and nobility
+		- House of Commons
+			- gentry
+				- commoners who own property
+	- government must provide incentives to let non-represented people attempt to become a part of the landed elite
+	- separation of powers (to an extent)
+		- Crown is the executive
+		- House of Lords and House of Commons are the legislative
+	- ideas applied to American colonies
+		- 90% of white males owned properties in the British colonies
+		- "the application of John Locke's theories had a more democratic effect in the American colonies than it did in England because a much greater percentage of American colonists owned property than persons who lived in England"
+		- after salutary neglect is over in the 1760s
+			- new taxes angered colonists because "no taxation without representation"
+				- [[American Revolution]]
+		- "all men are created equal" 

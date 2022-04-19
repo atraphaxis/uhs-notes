@@ -1,0 +1,168 @@
+---
+tags: ap-us-government/unit1 
+created: 2021-08-18
+---
+
+# US Constitution 8/18-20/21
+
+- based on the [[philosophical origins of US government]]
+- after the [[American Revolution]]
+- Philadelphia Convention
+	- 1787
+	- [[James Madison]]
+		- from Virginia
+	- Alexander Hamilton
+		- from New York
+	- both of these people served as delegates to the Congress of the Confederation
+		- delegate
+			-  "person sent or authorized to represent others"
+			-  "elected representative"
+	- stated purpose
+		- "have delegates from the states propose amendments to the Articles of Confederation"
+	- two groups
+		- Federalists
+			- supported the Constitution
+				- includes [[James Madison]] and Alexander Hamilton
+		- Anti-Federalists
+			- against the Constitution
+				- includes John Hancock and Patrick Henry
+		- 12 out of 13 states sent delegates
+			- Rhode Island did not send one
+				- took the longest to accept the Constitution
+		- after Shays' Rebellion
+		- discussed issues
+			- taxation and representation
+				- almost led to the break up of the convention due to disagreements
+				- "the only bodies that can legally issue a tax that you are compelled to pay have to be elected by those who are being taxed"
+			- creation of a federal executive
+				- one of the main problems with the Articles was no federal executive
+			- creation of a federal judiciary
+				- controversy over how people should be put into judiciary positions
+					- elected or appointed
+			- powers delegated to the federal government
+				- biggest flaws of the Articles was that the federal government could not tax
+			- process of ratification
+				- how would the Constitution be accepted by the states
+- [[James Madison]]'s Virginia Plan
+	- goals
+		- new constitution
+		- "empower the federal government to be able to tax"
+		- "each state represented in the federal government"
+			- legislative branch would have two houses
+				- both houses represented according to population
+		- "states with more population should pay more federal tax"
+			- "best way the federal government could raise revenue would be to tax the state based on their population"
+- New Jersey Plan
+	- goals
+		- amend the Articles
+		- each state should have equal representation
+- "Great Compromise"
+	- Connecticut Compromise
+	- House of Representatives based on the Virginia Plan
+		- state population
+	- Senate based on the New Jersey Plan
+		- each state gets two senators
+		- "state legislatures originally appointed the senators"
+	- all tax/revenue bills must originate in the House of Representatives
+	- small states are over-represented
+	- Three Fifths Compromise ^fb7b67
+		- each slave counted as three fifths of a person
+		- "three fifths of the slave population would be counted for determining direct taxation and representation in the House of Representatives"
+	- Electoral College
+		- number of representatives and senators equals the amount of delegates
+- presidency
+	- not directly elected
+		- from [[Baron de Montesquieu]]
+		- fear of demagoguery
+			- emotional appeal to people
+				- not rational
+		- fear of corruption in voting
+		- national executive picked by representatives of the states
+	- enforce the law justly
+	- Benjamin Franklin's College of Electors
+		- like the Holy Roman Empire
+		- states pick electors that elect the president
+			- Constitution says the states choose how they pick the electors
+		- originally, every state had the state legislature select the electors
+		- now, 48 of 50 states use popular vote
+			- Maine and Nebraska use congressional districts
+	- term length
+		- some argued for one year
+		- Alexander Hamilton argued lifetime
+			- elective monarchy
+				- like Poland had at a point
+		- compromise
+			- four years
+- federal judiciary
+	- checks and balances
+		- appointed by president
+		- confirmed by Senate
+	- lifetime terms
+		- intention was to take justices out of politics
+			- for impartiality
+	- Supreme Court
+		- presides over lower federal courts
+			- Congress forms the structure of the lower federal courts
+		- Congress determines how many Supreme Court Justices there are
+- powers given to the federal government
+	- delegated/enumerated powers
+	- what can the states not do efficiently
+		- promote commerce/trade
+			- interstate
+			- international
+		- print money
+			- contributes to commerce
+		- foreign policy
+			- declare war
+			- make treaties
+		- create court system
+			- keeps laws consistent between state and federal level
+	- Article I, Section 8
+		- "all federal laws must be rooted in an enumerated power"
+		- "necessary and proper" clause
+			- elastic clause
+			- "Congress has the power to pass all ways that are necessary and proper to implement its enumerated powers"
+			- limits federal power according to [[James Madison]]
+				- Democratic Republican point of view
+			- expands federal power according to Alexander Hamilton
+				- Federalist point of view
+			- example
+				- Federal Reserve
+		- other powers given to the states
+	- separation of power
+	- checks and balances
+- process of ratification
+	- each state creates a ratifying convention
+		- states hold elections for delegates that go to the state conventions
+			- no person currently serving in state government could be a delegate
+	- 9 of 13 states needed to ratify the Constitution
+- ratification debates
+	- Federalists vs Anti-Federalists
+		- Federalists argued that the states were too powerful
+			- states hindered individual liberties
+			- *Federalist Papers*
+				- 85 newspaper articles
+				- advocated for the ratification of the Constitution
+				- writers included John Jay
+		- Anti-Federalists argued the chief executive would be despotic
+			- *Anti-Federalist Papers* or *Letters of Brutus*
+				- counter to the *Federalist Papers*
+				- *Brutus \#1*
+			- federal courts, with their lifetime appointments, will overtake state power
+			- "necessary and proper" clause is a "blank check"
+	- small states ratified the Constitution quickly
+	- Virginia and New York were most resistant
+		- Anti-Federalist governors
+			- Patrick Henry
+			- John Hancock
+		- Madison promised to submit 12 amendments that would decrease federal power
+			- gets the Constitution ratified
+				- Rhode Island is last in 1791
+			- has trouble getting elected for Congress
+				- Patrick Henry selected two Anti-Federalists for the Senate in Virginia
+				- instead won against James Monroe for the House
+					- 10 of the 12 amendments get accepted in 1791
+						- Bill of Rights
+							- only limits to federal power
+						- second to last one became the 27th Amendment in the 1990s
+							- against corruption in Congress 

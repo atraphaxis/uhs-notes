@@ -1,0 +1,148 @@
+---
+tags: ap-us-government/unit2 
+created: 2021-09-08
+---
+
+# legislating in Congress 9/8-13/21
+
+- see [[organization of Congress]]
+- how a bill becomes law
+	- anyone can draft a bill
+	- needs to be sponsored by a representative or senator
+	- other than tax bills, a bill can be introduced in either chamber
+		- ways and means committee (exclusively in the House of Representatives) deals with tax bills
+	- broad sponsorship
+		- get members from one party to agree with a bill
+	- bipartisan support
+		- members from both parties agree
+	- bill is filed in a bucket
+		- hopper
+		- by a congressional pager
+	- speaker (House) or majority leader (Senate) assigns the bill to the appropriate committee
+		- committee chair can reject it
+		- committee assigns it to a sub-committee if needed
+			- debate
+				- hearings
+					- testifying for or against it
+						- by interest groups
+			- sub-committee can vote against the bill
+		- same series happens in the standing committee
+	- goes to the rules committee
+		- determines how long the bill will be debated
+		- open or closed
+			- allow amendments?
+		- only in the House
+		- can choose not to pass it along
+		- can add a "poison pill" amendment
+			- most people vote against it
+	- vote in one chamber
+		- in Senate, possibility of a filibuster
+	- goes to the other chamber and repeats everything if passed
+		- exact same bill needs to be passed by both chambers
+			- using a conference committee
+				- edits bill to make it consistent
+				- possibility of no compromise
+	- vote on unified bill
+	- goes to the president
+		- can be signed or vetoed
+			- if vetoed, Congress can still pass it with a 2/3 vote
+- only 2% of legislation gets passed
+- executive order
+	- "rule or regulation issued by the president that has the effect of law"
+	- Emancipation Proclamation by Abraham Lincoln
+	- Japanese-American internment camps during World War II by FDR
+		- \#9066
+- reality
+	- pork
+		- pork barrel legislation
+		- "use of federal government money towards specific projects in a congressperson's local district in order to help them get reelected"
+		- explains why incumbents usually get reelected
+			- "bring home the bacon"
+		- usually public works projects
+		- problems
+			- officials put their districts before the national interest
+			- wasteful
+				- amendments
+			- slows down the approval process of a bill significantly
+				- can even make a bill fail
+	- logrolling
+		- "exchange of support or favors, especially by legislators, for mutual political gain by voting for each other's bills"
+		- problems
+			- constituents feel betrayed
+		- "most common when legislators are trying to secure votes for bills that will benefit their home districts"
+	- strikers
+		- striking amendment
+		- "removes everything after the title of the bill and inserts a whole new bill"
+		- most don't pass
+		- revives a bill
+		- "bill is not dead until Congress is adjourned"
+	- omnibus bill
+		- "proposed law that covers a number of diverse or unrelated topics"
+		- "single document that is accepted in a single vote by a legislature"
+		- all under one title that justifies the inclusion of all topics
+		- advantages
+			- gets legislation processed faster
+			- allows for hidden amendments
+				- pork barrel amendment
+	- riders
+		- "amendment that is added to a bill that might have nothing to do with the intent of the original bill"
+		- "Senate has no closed rules for amending legislation"
+			- Senate creates most riders and strikers
+		- often "pet issues"
+			- pork
+	- earmark
+		- "provision in a piece of congressional legislation that directs specified federal funds to specific projects or programs"
+		- appears in
+			- appropriation bill
+				- government spending
+			- authorization bill
+				- creates, extends, or alters federal agencies or programs
+				- example
+					- Social Security
+- enumerated v. implied powers
+	- [[delegated powers of Congress]]
+	- first section of a bill has to specifically label which enumerated power is being used
+		- Article I, Section 8
+	- example
+		- First Bank of the United States
+			- works of the following enumerated powers
+				- coin money, regulate commerce, borrow money, spending/taxes
+- "promotion and regulation of commerce"
+	- primarily used enumerated power for the first 200 years
+	- US v. Lopez
+		- mid-1990s
+		- student brought a gun into a classroom
+		- violation of interstate commerce
+		- blocks further stretching of the definition of interstate commerce
+			- spending and taxation powers became primary instead
+	- if a law is rooted in this clause, the legislation creates a federal program that must be complied to by the states
+- spending and taxation
+	- uses incentives instead of force on states
+		- "voluntary compliance"
+		- three types of grants
+			- block grant
+				- "grant from the federal government that a local or state government can allocate to a wide range of services"
+				- "few strings attached"
+				- example: Temporary Assistance for Needy Families (TANF)
+			- categorical grant/conditional grant
+				- can be spent on "narrowly defined purposes"
+				- example: Medicaid
+			- unfunded mandate
+				- "statute or regulation that requires a state or local government to perform certain actions with no money provided for fulfilling those requirements"
+				- example: Americans with Disabilities Act
+- examples
+	- Motor Voter Act/National Voter Registration Act (1993)
+		- rooted in spending power
+		- American citizens are registered to vote when they get their driver's license
+		- block grant given to states
+	- Clean Air Act of 1970
+		- rooted in spending power
+		- created the Environmental Protection Agency (EPA)
+			- regulates environmental issues
+				- national air quality standards
+			- categorical grants to state for compliance to EPA standards
+	- Americans with Disabilities Act (1990)
+		- rooted in spending power
+		- employers have to make "reasonable accommodations for people with disabilities"
+		- prohibits employment discrimination based on disabilities
+		- unfunded mandate 

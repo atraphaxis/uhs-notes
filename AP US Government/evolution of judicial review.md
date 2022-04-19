@@ -1,0 +1,84 @@
+---
+tags: ap-us-government/unit3 
+created: 2021-09-27
+---
+
+# evolution of judicial review 9/27-29/21
+
+- judicial review: "process whereby the Supreme Court determines if a law is constitutional"
+	- [[early US federal judiciary history]]
+	- "serves as check on the legislative and executive branches of government"
+	- "power of the Court to determine the constitutionality of legislation or executive action"
+	- "fundamental role in the system of checks and balances"
+- process of selecting a justice
+	- Supreme Court justice dies or leaves office
+	- president selects a new one
+	- Senate judiciary committee runs hearings
+		- "do you believe the Court has the power of judicial review"
+		- "what is your philosophy of judicial review"
+- theories of judicial review
+	- judicial restraint/strict constructionism
+		- "exercised by a justice who is hesitant to overturn federal law"
+		- from a literal interpretation of the [[US Constitution]]
+		- most often appointed by Republican presidents
+		- examples
+			- William Rehnquist
+				- Republican
+				- appointed by Nixon
+	- Framers' intent
+		- even more strict than strict constructionists
+		- exact language of the Constitution
+		- examples
+			- Antonin Scalia (justice 1986-2016)
+				- Republican
+				- appointed by Gerald Ford
+	- judicial activism/"living Constitution"/"conventional morality of modern society"
+		- "exercised by a justice who is more likely to overturn federal law and work from personal belief when making a decision"
+		- most often appointed by Democratic presidents
+		- examples
+			- Thurgood Marshall
+				- first African-American Supreme Court justice
+				- Democrat
+				- appointed by Lyndon B. Johnson
+			- Ruth Bader Ginsberg
+				- appointed by Clinton
+	- "theory of natural, individual, inalienable rights"/constitutional absolutist
+		- focuses on the Bill of Rights (especially the First Amendment)
+		- government cannot regulate constitutional rights
+		- if a right is not listed in the Constitution, one does not inherently have that right
+		- examples
+			- Hugo Black (justice 1937-1974)
+				- appointed by FDR
+				- Democrat
+	- justice's personal opinion is unacceptable
+		- ipsie dixit: "it's right because I said so"
+- how a court rules on a case
+	- inspect past court rulings
+		- stare decisis: "use of precedent cases to justify court rulings"
+	- judicial review applied
+	- court tests of legislation
+		- strict scrutiny/compelling state interest test
+			- "if the court determines that this particular law and this particular case deserves strict scrutiny, 99% of the time the law will be struck down as unconstitutional"
+			- two types of cases
+				- due process
+					- regarding fundamental rights
+						- a right is being violated
+					- "in order for the law not to be struck down as unconstitutional, the government must prove that they are compelled to pass that law"
+						- times of war
+						- national security threat
+				- equal protection
+					- 14th Amendment
+						- "all persons must be treated the same under the law"
+					- no suspect classification
+						- based on race, sexual orientation, religion
+					- examples that were allowed
+						- Executive Order \#9066
+						- Trump's Muslim ban
+		- reasonable basis/"balancing tests"/weigh government interest and burden to rights
+			- state regulations on interstate commerce
+			- equal protection
+				- quasi-suspect classification
+					- gender
+			- "time, place, manner restrictions on speech"
+			- examples
+				- limitations on abortion 

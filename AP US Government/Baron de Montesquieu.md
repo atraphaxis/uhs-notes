@@ -1,0 +1,68 @@
+---
+tags: ap-us-government/unit1 
+created: 2021-08-12
+---
+
+# Baron de Montesquieu 8/12/21
+
+- 1689-1755
+- [[philosophical origins of US government]]
+- French nobleman under King Louis XIV
+	- owned a huge estate
+- advocated republican government
+- member of the philosophes
+	- anglophile
+		- liked the British system and culture
+			- they had industrialization
+			- agreed with [[John Locke]] on many things
+- "moderation is the key to success"
+	- moderate government
+		- like Britain with its constitutional monarchy
+- natural state of man
+	- good
+	- "The Spirit of the Laws"
+		- important work
+		- "law is human reason"
+			- every law should use logic
+		- three species of government
+			- republican
+				- "government where the people in government represent the people" of the country
+				- "operates on behalf of the people"
+				- virtue
+					- "a person who understands what is right morally and logically"
+					- people become virtuous through popular education
+					- end goal is equality to some extent
+						- equality, in this situation, refers to everyone being the same at birth
+				- meritocracy
+					- "system, organization, or society in which people are chosen and moved into positions of success, power, and influence on the basis of their demonstrated abilities and merit"
+			- monarchy
+				- virtue is required only in the monarch and aristocracy
+				- inequality
+			- despotic
+				- based on fear
+				- Roman Republic
+			- each have an end goal
+			- each have needs that have to be met in order to be successful
+- Montesquieu's social contract
+	- "moderate government makes fair laws -> no arbitrary laws -> liberty is the right for the individual to do what the law permits"
+	- separation of powers
+		- checks and balances by different branches of government to one another
+		- "different branches of government are each allocated a specific power"
+		- great contributions of Montesquieu
+		- legislative
+			- represents the people of the republican government
+			- makes the laws
+			- should be divided into two parts (bicameral)
+				- each house should check the other house
+		- executive
+			- should be headed by a monarch
+				- not directly affected by the people
+					- theoretically makes it more fair than an elected official
+			- enforces laws
+		- judicial
+			- interprets the laws
+			- as independent as possible
+- limitations of republican government according to Montesquieu
+	- restricted to cold climates
+	- have to cover small geographic areas
+	- absolute democracy would not work well 

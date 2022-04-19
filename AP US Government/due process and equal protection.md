@@ -1,0 +1,78 @@
+---
+tags: ap-us-government/unit3 
+created: 2021-10-26
+---
+
+# due process and equal protection 10/26-27/21
+
+- due process
+	- 5th Amendment (in the Bill of Rights)
+		- "no person shall be deprived of life, liberty, or property without due process of law"
+			- from [[John Locke]]
+		- procedural due process
+			- government has to go through designated procedures in order to take away a citizen's rights
+			- if there's an error, a whole criminal case could be scrapped
+		- substantive due process
+			- "are the substance of your rights being infringed?"
+				- if yes, compelling state interest [[court tests of legislation|test]]
+				- if no, rational basis test
+	- pre-Civil War, due process did not really apply to the states
+		- Bill of Rights only had to be followed by the federal government
+- equal protection
+	- 14th Amendment (post-Civil War, 1868)
+		- doctrine of incorporation
+			- "as soon as the 14th amendment comes into effect, all of the amendments apply to the states"
+			- some saw this as too radical
+		- doctrine of selective incorporation
+			- "wait for the court's to figure it out"
+			- no major changes to the workings of the states happens immediately
+			- amendments applied gradually
+			- some parts of or full amendments have never been applied to the states
+				- 3rd Amendment
+				- 2nd Amendment applied starting from 2010
+	- "no state can deny a person equal protection under the law"
+	- no suspect classification
+		- compelling state interest test if so
+- pre-Civil War interpretation of the Bill of Rights
+	- Barron v. Baltimore (1833)
+		- Bill of Rights can't be applied to the state governments
+		- sets this as precedent
+		- federal government therefore only has a limited ability to regulate or ban slavery
+			- setback for the abolitionist movement
+	- Dred Scott v. Sanford (1857)
+		- lower courts were of the opinion Dred Scott was not a citizen and therefore could not sue
+		- Court rules non-citizens do not have the right to sue
+		- majority opinion (Taney's dictum) declares the Missouri Compromise unconstitutional, slavery should be legal across the entire country, and abolitionist laws violate due process from the 5th Amendment
+		- refuted by the 14th Amendment
+- Civil War amendments
+	- greatly expands the power of the federal government at the expense of state power
+	- create new enumerated powers
+	- 13th Amendment (1865): ends involuntary servitude
+	- 14th Amendment (1868): defines federal and state citizenship
+		- birth-right citizenship
+		- overturns Dred Scott v. Sanford
+		- redefines apportionment
+			- due to increased amount of people being counted as citizens
+		- prevents insurrectionists or rebels from holding office
+		- prevents reparations to southern states and slave owners
+	- 15th Amendment (1870): "universal" male suffrage with voting being made a fundamental right
+		- right cannot be denied based on "race, creed, or color"
+	- doctrine of selective incorporation means these did not completely affect the states for an extended period of time (~100 years)
+- Gilded Age
+	- Slaughter House cases (1873)
+		- "put into question the protections of the 14th Amendment"
+		- "group of butchers argued that a monopolistic practice ensured by a state is violating their constitutional privileges"
+			- they lose
+		- majority opinion
+			- "14th Amendment, in this case, only grants minimal privileges and immunities at a federal level"
+			- "states are welcome to create additional rights, but are also able to take rights away"
+			- defines citizenship
+				- residency is a requirement of state citizenship
+		- dissenting opinion
+			- "14th Amendment should apply the Bill of Rights to all states, to the greatest possible extent"
+			- rights should not be taken away
+		- allows for Jim Crow laws
+			- literacy test for voting
+			- poll taxes
+			- white primaries
+		- "equal protection ignores racial segregation" 

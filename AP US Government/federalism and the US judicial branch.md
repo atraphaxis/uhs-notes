@@ -1,0 +1,52 @@
+---
+tags: ap-us-government/unit3 
+created: 2021-09-20
+---
+
+# federalism and the US judicial branch 9/20/21
+
+- Article III of the [[US Constitution]]
+	- Framer's intent
+		- powerful, independent judiciary
+		- equal branch of the government
+	- Hamilton
+		- judiciary has the power of opinion
+		- judicial review
+			- left unresolved in the original Constitution
+			- [[Marshall Court]]
+	- lifetime appointment
+		- make judges independent from public opinion
+		- still can be impeached
+	- only Congress can create district and appellate courts
+	- Section 2
+		- original jurisdiction
+			- arbitrator of controversies between states
+				- writ of mandamus
+					- order from a court to do some act
+				- writ of injunction
+					- stop an act
+			- arbitrator of controversies involving foreign dignitaries
+		- appellate jurisdiction
+			- cases that have been appealed
+			- no testimony
+	- definition of treason
+		- "treason against the US consists only in levying war against them, or in adhering to their enemies, giving them aid and comfort"
+- federal court structure
+	- Judiciary Act of 1789
+		- three-tier system
+			- Supreme Court (from the Constitution)
+				- originally 6 justices
+					- changed to 5 justices later
+					- one Chief Justice
+						- when in the majority, picks who writes the opinion
+							- opinion
+								- explains the case
+								- how the case corresponds with precedence
+								- creation of guidelines for lower cases
+				- discretionary jurisdiction
+			- appellate courts
+				- 13
+					- includes the regular circuit courts and the Court of Appeals for the Federal Circuit
+			- district courts
+				- all states have to have at least one
+				- for federal crimes and federal civil cases 

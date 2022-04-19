@@ -1,0 +1,87 @@
+---
+tags: ap-us-government/unit2 
+created: 2021-09-10
+---
+
+# US Congress policy-making process 9/10/21
+
+- see also [[president as policy-maker]]
+- questions
+	- is this policy within the scope of government action
+	- is it a federal or state issue
+- policy issues are dynamic
+	- public opinion
+	- mass media
+		- focus on specifics
+	- interest groups
+		- pressure legislators
+- policy decision
+	- nature and difficulty considered
+	- how partisan is the situation
+	- costs and benefits
+		- how much does it cost
+			- how is the government going to get the money
+		- who benefits
+	- types of policy decisions
+		- majoritarian politics
+			- many benefit
+			- many contribute to paying the costs
+			- debate
+				- ideological
+				- interest groups are usually not that important in this case
+				- if policy is successful, both parties often support it
+					- how to make it more efficient and better
+			- examples
+				- Social Security
+					- payroll tax
+					- pension check
+				- antitrust
+					- Sherman and Clayton Antitrust Acts
+					- cost is enforcement
+					- benefits everyone
+				- Interstate Commerce Commission and Federal Trade Commission
+					- ICC kept prices fair for railroad rates
+					- FTC keeps prices lower
+				- Obamacare
+					- requirement of healthcare
+					- better health insurance at lower costs
+			- ideology of executive determines priorities
+	- interest-group politics
+		- few benefit
+		- few pay
+		- examples
+			- Wagner Act (National Labor Relations Act)
+				- National Labor Relations Board
+				- labor unions benefited
+				- corporations paid
+			- Taft-Hartley Act (1947)
+				- veto overridden
+				- no striking in essential industries
+				- corporations benefited
+				- labor unions paid
+			- Occupational Safety and Health Act (OSHA) (1970)
+				- clean water, air, and more
+				- at workplaces
+				- benefited workers
+			- Family Medical Leave Act
+				- no loss of jobs for medical absences
+	- client politics
+		- pork barrel politics
+		- few benefit
+		- many pay
+		- most people do not realize the cost
+			- hidden in omnibus bills
+		- in some cases, people believe the policy protects them
+		- examples
+			- licensing requirement in certain professions
+				- higher cost of entry
+				- lower supply
+			- regulation of the milk industry
+				- ensure supply
+				- stabilize prices
+			- regulation of the tobacco industry
+				- advertising restrictions
+					- Federal Communication Commission
+				- sales restrictions
+				- federal subsidies
+			- steel subsidies 

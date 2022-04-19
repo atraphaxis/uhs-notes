@@ -1,0 +1,55 @@
+---
+tags: ap-us-government/unit6 
+created: 2022-02-09
+---
+
+# third two-party system 2/9-10/22
+
+- see also [[development of a two-party system]]
+- breakdown of Democrats and Whigs as a result of the Civil War and the issue of slavery
+- realignment lasts for 36 years until 1896
+- leading up to it
+	- removal of Missouri Compromise with the creation of the Kansas-Nebraska Act
+	- some in the Whigs break off to form the Republican party, an anti-slavery party
+	- southern Democrats wanted slavery to spread while northern Democrats did not and emphasized a larger central government
+- Republican party starts a 60 year dominance of US politics
+	- Republicans have the presidency for 44 years and have the Senate and House for the majority of the time
+	- until FDR
+- realignment election of 1896
+	- rise of the Populist party
+		- believed the two major parties were not addressing the concerns of the people
+		- attempted Democratic-Populist coalition
+			- coalition: combination of multiple groups of people who work together to achieve a common goal
+			- led by William Jennings Bryan
+				- defeated by William McKinley
+- realignment election of 1932
+	- Democratic "New Deal" coalition
+		- successful combination of the same constituent groups that the Populists and Democrats had attempted to bring together in 1896
+			- urban working class
+			- minorities
+			- liberals
+		- forged by FDR
+			- Democrats dominated politics until the 1960s
+		- weaknesses
+			- lots of disagreements
+			- breakdown due to
+				- Vietnam War
+				- Civil Rights
+	- Dixiecrats of 1948 election
+		- spoiler party
+		- broke away from the Democratic party to favor segregation and conserving white supremacy
+- de-alignment election of 1968
+	- during
+		- Civil Rights Movement
+			- recent assassination of Martin Luther King, Jr.
+		- Tet Offensive in Vietnam
+		- assassination of Bobby Kennedy
+	- de-alignment: "loss of party members as more people identify as independents"
+	- southern whites and some liberals left the New Deal coalition
+		- Democratic party left with two dependable voter groups
+			- African Americans
+			- organized labor
+	- Nixon elected
+- more independents than either Democrats or Republicans
+- vast majority of independents vote for either a Democrat or Republican
+- voters are somewhat likely to vote for a presidential candidate from one party and a congressional candidate from the other 

@@ -1,0 +1,64 @@
+---
+tags: ap-us-government/unit4 
+created: 2021-11-10
+---
+
+# post-World War II Civil Rights 11/10-12/21
+
+- see [[legal discrimination of pre-World War II America]]
+- National Association for the Advancement of Colored People (NAACP)
+	- founded in 1909
+	- public interest [[special interests|interest group]]
+		- lobbied Congress
+		- released publications
+	- trained attorneys in Civil Rights law
+	- provided lawyers pro bono or paid legal fees for those pursuing lawsuits relating to Civil Rights
+	- looked for clients that had standing
+		- had an injury in fact
+- Thurgood Marshall
+	- sued the University of Maryland due to segregation
+	- joined the NAACP
+- Sweatt v. Painter (1950)
+	- desegregation of college dorms and facilities
+	- first court case that challenged the "separate but equal" doctrine
+- Brown v. Board of Education (1954)
+	- consolidation of multiple cases regarding the segregation of public schools based on race
+		- African Americans were denied admittance to white public schools
+	- segregation by race violates the equal protection clause of the 14th Amendment
+		- "separate but equal educational facilities for racial minorities is inherently unequal, violating the equal protection clause"
+	- unanimous decision
+		- Chief Justice Earl Warren lobbied all other justices
+		- social studies showed "segregation instills a feeling of inferiority"
+- Bolling v. Sharpe (1954)
+	- desegregated federal schools through the 5th Amendment
+- Brown II (1955)
+	- integration was not happening fast enough
+	- dictum
+		- "gave local courts the ability to set guidelines for integration"
+		- "courts can determine if schools are actually desegregating"
+		- "schools should desegregate with all deliberate speed"
+- integration of Little Rock Central High School (1957)
+	- governor of Alabama ordered the National Guard to prevent the integration
+	- Eisenhower had the National Guard stand down
+- Lyndon B. Johnson
+	- ran for president in 1960
+	- southern white Dixiecrat
+	- allied with Martin Luther King Jr.
+		- pushed Civil Rights agenda with him
+- Martin Luther King Jr.
+	- arrested multiple times for his involvement in the Civil Rights movement
+	- Letter from Birmingham Jail (1963)
+		- argued that him and his fellow demonstrators "need to take charge and demand equality"
+		- defends non-violent protest against unjust laws
+		- de jure segregation is unjust
+			- white violence upholds those laws
+		- everyone deserves the true right to vote and run for office
+		- public accommodations need to be accessible to everyone
+		- 14th Amendment's equal protection clause needs to be used to advance equality
+- Civil Rights Act of 1964
+	- "prohibits discrimination in employment and in places of public accommodation"
+	- created the Equal Employment Opportunity Commission (EEOC) to enforce the law
+- Voting Rights Act of 1965
+	- "prohibits racial discrimination in voting" including literacy tests and poll taxes
+- 24th Amendment (1964)
+	- outlawed poll taxes in federal elections 

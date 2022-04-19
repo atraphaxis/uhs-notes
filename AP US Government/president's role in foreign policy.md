@@ -1,0 +1,53 @@
+---
+tags: ap-us-government/unit7 
+created: 2022-04-06
+---
+
+# president's role in foreign policy 4/6/22
+
+- see also [[constitutional provisions regarding the executive branch]] and [[evolution of the presidency]]
+- Head of State
+	- chief enactor of foreign policy
+	- use of diplomacy
+		- speak unilaterally as the head of the country
+		- president negotiates foreign treaties
+			- must be ratified in Senate by a 2/3 vote
+		- because of the difficulty of ratification, the power of executive agreements established
+			- no Senate approval
+			- between the heads of countries
+			- number increased dramatically since 1940
+	- use of military
+		- Commander in Chief
+			- armed forces
+			- national guard
+		- only Congress can declare war
+			- president can deploy the military in emergencies without the approval of Congress
+		- War Powers Act of 1973
+			- check on presidential power
+			- president has to consult with Congress regarding the deployment of troops
+				- must tell Congress 48 hours before action
+			- presidential aggressive action can only last for 60 days with a 30 day withdrawal period without a formal declaration of war
+- public opinion is the major check on presidential power due to its expansive nature
+- presidential wars
+	- Korea
+		- seen as diplomatic
+	- Vietnam
+		- began as covert action
+			- originally seen as diplomatic
+		- 1964 Gulf of Tonkin Resolution
+			- Congress gave the president full authority over the military
+			- 500,000 troops committed
+		- leads to War Powers Act
+	- Nicaragua
+		- covert action
+		- CIA officials sent to promote terrorism and guerrilla warfare
+		- Iran-Contra Affair
+	- First Gulf War
+		- under George H. W. Bush
+	- Second Gulf War (2003-2011)
+		- under George W. Bush
+	- War on Terrorism in Afghanistan
+		- after 9/11
+		- no specific target
+		- no specific goal
+		- continued by future presidents 

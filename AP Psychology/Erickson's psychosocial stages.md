@@ -1,0 +1,55 @@
+---
+tags: ap-psychology/unit9 
+created: 2022-01-18
+---
+
+# Erickson's psychosocial stages
+
+- during first year of life
+	- deals with trust vs. mistrust
+	- favorable outcome
+		- faith in one's environment and future possibilities
+	- unfavorable outcome
+		- suspicion and fear of the future
+- second year
+	- deals with autonomy vs. doubt
+	- favorable outcome
+		- sense of self-control and adequacy
+	- unfavorable outcome
+		- feelings of shame and self-doubt
+- third through fifth year
+	- initiative vs. guilt
+	- favorable outcome
+		- "self-starter" and more independent
+	- unfavorable outcome
+		- sense of guilt and lack of independence
+- sixth year to puberty
+	- industry vs. inferiority
+	- good
+		- ability to understand the world and organize it
+	- bad
+		- sense of inferiority at understanding and organizing
+- [[adolescence]]
+	- identity vs. confusion
+	- good
+		- seeing oneself as unique and integrated
+	- bad
+		- confusion over one's [[identity]]
+- early adulthood
+	- [[intimacy]] vs. isolation
+	- good
+		- work-life balance and ability to love
+	- bad
+		- inability to form a strong relationship
+- middle age
+	- generativity vs. stagnation
+	- good
+		- concern for family and society
+	- bad
+		- concern only for oneself
+- aging years
+	- integrity vs. despair
+	- good
+		- sense of fulfillment and willingness to face death
+	- bad
+		- dissatisfaction and fear of death 

@@ -1,0 +1,51 @@
+---
+tags: ap-us-government/unit6 
+created: 2022-02-28
+---
+
+# campaign finance 2/28/22
+
+- see also [[presidential election process]] and [[elections, campaigns, and political parties]]
+- pre-Watergate scandal
+	- mostly unregulated by the federal government
+- post-Watergate scandal
+	- Federal Election Campaign Act (FECA I) (1971 and amended in 1974)
+		- new federal commission called Federal Election Committee (FEC)
+			- to oversee and regulate money being spent in political campaigns
+		- limits how much money a person not running for office can give to a candidate
+			-  $1000 per election (now approximately $2700)
+		- limits how much money candidates could spend on their own campaign
+			-  $50,000 per election for presidents and vice presidents
+			-  $35,000 per election for senators
+			-  $25,000 per election for representatives
+		- reasons
+			- to "level the playing field"
+			- to prevent corruption of elections
+- *Buckley v. Valeo* (1976)
+	- challenge to FECA
+	- spending on campaigns is tied to the 1st Amendment freedom of speech and therefore is protected
+	- conclusions
+		- upheld the limit on how much individuals can contribute to campaigns because it enhances the integrity of the political system
+		- struck down the limit on how much candidates can contribute to their own campaign
+- reaction to FECA
+	- political action committees (PACs)
+		- "separate institutions affiliated with special interest groups at the national, state, and local levels"
+		- "as of 1974, corporations, unions, and trade organizations have been able to form PACs" to further their political interests
+		- "purpose is to raise as much money as possible to support a candidate or a cause"
+		- usually for incumbent representatives
+		- "can raise and spend as much money as they want independent of the campaign"
+		- examples
+			- NRA
+			- National Association of Realtors
+		- voluntary contributions separate from the special interest groups' membership dues, because the dues can't be spent on political campaigns
+		- new FECA limits eventually set on PAC donations
+			- PACs treated as individuals and must be registered with the FEC
+			- can only give $5000 per candidate per election
+			- $15,000 per political party per year
+			- individuals can't give more than $5000 to a PAC per year
+	- Super PAC status
+		- "PAC that is allowed to raise and spend an unlimited amount of money from corporations, unions, individuals, and associations"
+		- result of *Citizens United v. FEC* (2010)
+		- are not associated with  a specific candidate or party
+		- PACs can contribute directly to candidates while super PACs can't
+		- 500 members or more 

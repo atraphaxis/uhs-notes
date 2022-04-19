@@ -1,0 +1,59 @@
+---
+tags: ap-us-government/unit4 
+created: 2021-11-17
+---
+
+# nationalization of the Bill of Rights 11/17-18/21
+
+- due process: "proper process or procedure that ensures the government acts fairly in dealing with its citizens"
+	- due process cases occur when someone believes their right is being violated
+- doctrine of selective incorporation: "on a case by case basis, the Court has used the 14th Amendment due process clause to incorporate the Bill of Rights to the states"
+- procedural due process: "steps the government must take to take away one's rights"
+- substantive due process: "substance/rights of what the procedures are protecting"
+	- like freedom of speech
+- Miranda v. Arizona (1966)
+	- Miranda had multiple charges against him
+		- his rights were not told to him
+		- said to have confessed during an interrogation on tape without counsel present
+	- violations of 5th and 6th Amendments
+	- Supreme Court in a 5-4 decision issued by Earl Warren said "the prosecution could not introduce Miranda's confession as evidence in a criminal trial" because police did not tell Miranda his right to remain silent and his right to counsel
+	- "when individuals are subject to arrest, police must read them their rights"
+		- Miranda rights
+	- Miranda was tried again in Arizona and convicted without his confession
+- Gideon v. Wainwright
+	- Gideon could not afford a lawyer
+		- court refused to give him one because under Florida law, lawyers are not given for free unless there is the possibility of the death penalty
+	- argued to the Supreme Court that the 6th Amendment guaranteed him the right to a lawyer
+		- this was already the case in federal courts, but Gideon argued it should also apply on the state level
+	- "does the 6th Amendment extend to felony offenses in state courts"
+	- Court says that "6th Amendment (right to an attorney) applies to criminal defendants in state courts" using the 14th Amendment (doctrine of selective incorporation)
+- Mapp v. Ohio
+	- deals with the 4th Amendment (unreasonable search or seizure)
+	- "Court determined that evidence obtained through a search that violates the 4th Amendment is inadmissible in state court"
+	- "Court incorporated protection from unreasonable search and seizure"
+	- exclusionary rule
+		- originally created in 1914 with Weeks v. US at the federal court level
+			- "Court ruled that the federal government could not rely on illegally seized evidence to obtain criminal convictions in federal court"
+		- made applicable to the states with Mapp v. Ohio
+	- "unreasonable search and seizure"
+		- without probable cause or a warrant
+	- zone of privacy surrounds one's home
+	- there is a constitutional right to privacy
+- constitutional right to privacy (implied)
+	- "take the 1st, 3rd, 4th, and 5th Amendments; they all relate to privacy"
+	- "9th Amendment says the people have rights not listed in the first 8 amendments"
+	- applied to the states via the 14th Amendment due process clause
+	- 1st Amendment gives the right to privacy of beliefs
+	- 3rd Amendment prevents the quartering of soldiers in homes, contributing to the idea of a zone of privacy around the home
+	- 4th Amendment protects from unreasonable search and seizure, adding to the 3rd Amendment
+	- 5th Amendment protects the right to property, including one's own body
+	- 9th Amendment allows for the creation of penumbras (implications/"in the shadow"/implied rights of the [[US Constitution]])
+	- "privacy is a modern fundamental right found in the penumbras of the 1st, 3rd, 4th, 5th, and 14th Amendments"
+- Griswold v. Connecticut (1965)
+	- C. Lee Buxton and Estelle Griswold opened up a birth control clinic
+		- prescribed birth control to married couples illegally
+	- challenged the law by claiming it goes against the 14th Amendment due process clause
+	- 7-2 decision that the right of privacy can be implied by several amendments (see above), preventing states from banning contraceptives
+	- privacy gets the compelling state interest test
+	- strict constructionist dissent
+		- Hugo Black and Potter Stewart 

@@ -1,0 +1,62 @@
+---
+tags: ap-us-government/unit7 
+created: 2022-03-21
+---
+
+# constitutional provisions regarding the executive branch 3/21/22
+
+- see also [[US Constitution]]
+- executive power: power to enforce laws
+- presidency and vice presidency only two offices created directly by the Constitution
+- vice president
+	- has both a legislative and executive role
+	- helps the president get elected
+	- "balancing the ticket"
+		- possibly by age, gender, and race
+			- Biden and Harris
+	- does jobs assigned by the president
+- powers of the president
+	- commander-in-chief of the army, navy, and air force
+	- commander-in-chief of the state militia (national guard)
+	- chief executive of the branches of the executive branch
+	- grant reprieves and pardons
+	- make treaties
+		- has to be ratified by the Senate because it
+			- represents the states originally
+			- was originally known as the more professional of the two houses
+	- nominate executive and judicial offices
+		- confirmed by Senate
+	- call special sessions of Congress
+	- veto
+		- pocket veto
+			- president doesn't sign the law and Congress adjourns within ten days
+		- line-item veto ruled unconstitutional for the federal government
+- responsibilities of the president
+	- state-of-the-union address
+	- must faithfully execute the law
+- impeachment
+	- can be done against any federal official
+- related amendments
+	- 2nd Amendment
+		- due to lobbying primarily from the NRA, interpreted by the courts as the right to bear arms
+		- originally to check executive power with militias being under state control
+	- 20th Amendment (1933)
+		- congressional terms begin on January 3rd
+		- presidential terms begin on January 20th
+		- presidential succession
+			- if president dies, vice president becomes president
+				- originally set by law
+			- if president-elect dies, vice president-elect becomes president-elect
+	- 22nd Amendment (1951)
+		- two-term limit
+		- vice president must be eligible to be president
+		- president must serve no more than 10 years
+	- 25th Amendment (1967)
+		- if vice presidency vacant, president should appoint one
+			- ratified by House and Senate
+		- presidential disability
+			- when the president knows he is going to be temporarily incapacitated
+				- president writes a note to his cabinet that vice president will be president for a set period of time
+			- when the president becomes incapacitated unexpectedly
+				- cabinet should meet to determine whether or not the president is capable of fulfilling the job
+					- if not, vice president temporarily becomes president 

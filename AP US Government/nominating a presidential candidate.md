@@ -1,0 +1,60 @@
+---
+tags: ap-us-government/unit6 
+created: 2022-02-14
+---
+
+# nominating a presidential candidate 2/14/22
+
+- quadrennial national conventions
+	- delegates selected from local and state parties (see [[political party structure]])
+		- officially nominate the presidential and vice presidential candidates
+		- ratify party platform
+	- 4 days long
+- delegate selection
+	- 1968 and before
+		- state primary
+			- more participation
+			- party members vote for the delegates sent to the national convention
+		- state caucus
+			- meeting of party members where they select the delegates personally
+		- delegates, even though they may say they would vote for someone, they could change their minds
+		- pros
+			- national conventions were meaningful
+		- cons
+			- party members left out of the process
+			- corruption
+			- 1968 Democratic national convention
+	- McGovern-Fraser reforms (post-1968)
+		- make primaries and caucuses meaningful
+		- delegates must pledge to a candidate in the Democratic party
+			- first-ballot binding rule
+	- more reforms
+		- Democratic party only
+			- leadership delegate
+				- important people in the party (like Senators) can get an unpledged vote
+			- bonus delegate/superdelegate
+				- from the national party to the state parties when the state elects Democratic candidates
+			- enhanced role of state party leaders
+			- thresholds
+				- required percentage (25%) to get any delegates at all
+			- party quotas
+				- 50% of the delegates to the convention need to be women
+				- percentages in terms of race and ethnicity of rank-and-file members of the state need to be directly represented in the delegate pool
+		- both parties
+			- winner-take-all primaries
+				- candidate gets all of the delegates from the same state
+			- move towards primaries over caucuses
+			- open primaries
+				- one ballot with both Democrats and Republicans
+				- do not work with presidential elections
+			- cross-over primaries
+				- independents or people from the opposite party can participate in a party's primary
+				- could be beneficial to encourage more input from independents
+		- suggested
+			- regions hold primaries on the same day
+- can a state regulate a political party?
+	- Cousins v. Wigoda (1975)
+		- quota system of the Democratic party okay as long as the intent is not to discriminate
+	- Democratic Party v. Wisconsin (1981)
+		- can a state set up its caucus or primary at any time it wants or does it have to listen to the national party?
+		- Wisconsin Democratic party has to follow the rules of its parent organization 
