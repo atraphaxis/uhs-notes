@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7991769417e0ea3c",
+        "id": "1674c6262dc2b7bd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "more information.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "more information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,16 +97,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7991769417e0ea3c",
+  "active": "1674c6262dc2b7bd",
   "lastOpenFiles": [
+    "more information.md",
+    "welcome.md",
     "AP US Government/mock election website.md",
     "AP US Government units.md",
     "AP Psychology units.md",
     "Untitled.md",
     "AP Economics units.md",
     "AP Psychology/psychology.md",
-    "more information.md",
-    "welcome.md",
     "AP Psychology/behaviorism.md",
     "obsidian.md"
   ]
