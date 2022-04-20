@@ -5,7 +5,7 @@ created: 2022-02-04
 
 # classical theory of [[economics]]
 
-- founded on the philosophies of [[Adam Smith]]
+- founded on the philosophies of Adam Smith
 - consumers want to maximize their own utility while business want to maximize profit
 - natural market forces (invisible hand) allow the market to fix deviations from the norm
 - includes

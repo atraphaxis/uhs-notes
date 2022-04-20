@@ -39,7 +39,7 @@ created: 2021-12-13
 			- "primary purpose of state involvement must neither advance nor hinder religion"
 			- "government must avoid excessive entanglement with religion"
 - Scopes trial (1925)
-	- teacher arrested for teaching both [[Charles Darwin|Darwinian]] evolution and scientific creationism
+	- teacher arrested for teaching both Darwinian evolution and scientific creationism
 - Epperson v. Arkansas (1968)
 	- evolution can be taught in public schools
 - Edwards v. Aguillard (1987)

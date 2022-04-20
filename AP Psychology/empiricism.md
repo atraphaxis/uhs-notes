@@ -7,4 +7,4 @@ created: 2021-08-06
 
 - knowledge comes from experience
 - scientific knowledge must result from observation and experimentation
-- created by [[Francis Bacon]] and [[John Locke]] 
+- created by Francis Bacon and John Locke

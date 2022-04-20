@@ -6,7 +6,7 @@ created: 2021-08-13
 # Adam Smith 8/13/21
 
 - [[philosophical origins of US government]]
-- "father of modern [[economics]]"
+- "father of modern economics"
 - *The Wealth of Nations*
 	- 1776
 	- proponent of free market capitalism
@@ -15,7 +15,7 @@ created: 2021-08-13
 			- provide public goods that are also experiencing a market failure
 				- public goods are necessary for sustaining the government
 					- also difficult to regulate
-				- a market failure is when the [[private sector]] is not reliably providing a good or service
+				- a market failure is when the private sector is not reliably providing a good or service
 		- "what must government provide for the commonwealth to sustain itself?"
 			- public goods that have a market failure
 				- infrastructure

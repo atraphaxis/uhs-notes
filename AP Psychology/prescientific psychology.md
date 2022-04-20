@@ -10,4 +10,4 @@ created: 2021-08-12
 - [[Aristotle]]
 - [[René Descartes]]
 - [[Francis Bacon]]
-- [[John Locke]]
+- John Locke

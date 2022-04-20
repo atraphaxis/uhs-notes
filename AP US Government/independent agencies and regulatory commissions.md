@@ -13,7 +13,7 @@ created: 2022-04-02
 - make regulations to enforce laws
 - examples
 	- Federal Reserve Board
-		- uses [[monetary policy]]
+		- uses monetary policy
 		- rooted in the commerce clause
 	- Environmental Protection Agency (EPA)
 		- deals with environmental laws

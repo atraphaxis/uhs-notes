@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1674c6262dc2b7bd",
+        "id": "04860e4fb267d45d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "more information.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "more information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +92,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1674c6262dc2b7bd",
+  "active": "04860e4fb267d45d",
   "lastOpenFiles": [
-    "more information.md",
     "welcome.md",
-    "AP US Government/mock election website.md",
-    "AP US Government units.md",
-    "AP Psychology units.md",
     "Untitled.md",
-    "AP Economics units.md",
-    "AP Psychology/psychology.md",
-    "AP Psychology/behaviorism.md",
-    "obsidian.md"
+    "AP Economics/classical theory of economics.md",
+    "AP US Government/Adam Smith.md",
+    "AP US Government/independent agencies and regulatory commissions.md",
+    "AP Economics/monetary policy.md",
+    "AP Psychology/prescientific psychology.md",
+    "AP US Government/establishment clause.md",
+    "AP Psychology/Charles Darwin.md",
+    "AP Psychology/empiricism.md"
   ]
 }
