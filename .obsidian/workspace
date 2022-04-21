@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "04860e4fb267d45d",
+        "id": "c17a053550f2cdef",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -92,17 +92,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "04860e4fb267d45d",
+  "active": "c17a053550f2cdef",
   "lastOpenFiles": [
+    "AP Economics units.md",
+    "AP Economics/absolute advantage.md",
+    "AP US Government units.md",
     "welcome.md",
     "Untitled.md",
     "AP Economics/classical theory of economics.md",
     "AP US Government/Adam Smith.md",
     "AP US Government/independent agencies and regulatory commissions.md",
     "AP Economics/monetary policy.md",
-    "AP Psychology/prescientific psychology.md",
-    "AP US Government/establishment clause.md",
-    "AP Psychology/Charles Darwin.md",
-    "AP Psychology/empiricism.md"
+    "AP Psychology/prescientific psychology.md"
   ]
 }
