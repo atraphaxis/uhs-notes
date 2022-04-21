@@ -18,8 +18,6 @@ Click on a tag to get a list of terms related to that unit.
 
 ## AP Macroeconomics
 
-#ap-macroeconomics/unit1 
-
 #ap-macroeconomics/unit2 
 
 #ap-macroeconomics/unit3 
